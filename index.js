@@ -12,8 +12,15 @@ app.get("/", (req, res) => {
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
+app.get("/category/:id", (req, res) => {
+  const id = req.params.id;
+  const categoryCourse = courses.filter((course) => course.idno == id);
+  res.send(categoryCourse);
+});
 app.get("/courses/:id", (req, res) => {
-  console.log(req);
+  const id = req.params.id;
+  const selectedCourse = courses.find((course) => course._id == id);
+  res.send(selectedCourse);
 });
 app.listen(port, () => {
   console.log("server running on port:", port);
