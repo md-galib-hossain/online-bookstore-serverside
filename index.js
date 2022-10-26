@@ -14,8 +14,12 @@ app.get("/categories", (req, res) => {
 });
 app.get("/category/:id", (req, res) => {
   const id = req.params.id;
-  const categoryCourse = courses.filter((course) => course.idno == id);
-  res.send(categoryCourse);
+  if (id == "7") {
+    res.send(courses);
+  } else {
+    const categoryCourse = courses.filter((course) => course.idno == id);
+    res.send(categoryCourse);
+  }
 });
 app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
