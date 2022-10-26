@@ -13,7 +13,7 @@ app.get("/categories", (req, res) => {
   res.send(categories);
 });
 app.get("/courses/:id", (req, res) => {
-  console.log(req.params.id);
+  console.log(req);
 });
 app.listen(port, () => {
   console.log("server running on port:", port);

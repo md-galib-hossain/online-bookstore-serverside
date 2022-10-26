@@ -1,112 +1,116 @@
 [
   {
-    "userid": "HTML/CSS",
-    "id": 1,
+    "idno": 1,
+    "type": "HTML/CSS",
+    "_id": 1,
     "name": "Html",
     "image": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg",
     "body": "HTML tutorial or HTML 5 tutorial provides basic and advanced concepts of HTML. Our HTML tutorial is developed for beginners and professionals. In our tutorial, every topic is given step-by-step so that you can learn it in a very easy way. If you are new in learning HTML, then you can learn HTML from basic to a professional level and after learning HTML with CSS and JavaScript you will be able to create your own interactive and dynamic website. But Now We will focus on HTML only in this tutorial.The major points of HTML are given below:HTML stands for HyperText Markup Language.HTML is used to create web pages and web applications.HTML is widely used language on the web.We can create a static website by HTML only.Technically, HTML is a Markup language rather than a programming language."
   },
   {
-    "userid": "HTML/CSS",
-    "id": 2,
+    "idno": 1,
+    "type": "HTML/CSS",
+    "_id": 2,
     "name": "Css",
     "image": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg.webp",
     "body": "CSS tutorial or CSS 3 tutorial provides basic and advanced concepts of CSS technology. Our CSS tutorial is developed for beginners and professionals. The major points of CSS are given below: CSS stands for Cascading Style Sheet.CSS is used to design HTML tags.CSS is a widely used language on the web.HTML, CSS and JavaScript are used for web designing. It helps the web designers to apply style on HTML tags."
   },
   {
-    "userid": "HTML/CSS",
-    "id": 3,
+    "idno": 1,
+    "type": "HTML/CSS",
+    "_id": 3,
     "name": "Html Layout",
     "image": "https://visme.co/blog/wp-content/uploads/2018/03/layout-design-grids-header-wide.jpg",
     "body": "HTML layouts provide a way to arrange web pages in well-mannered, well-structured, and in responsive form or we can say that HTML layout specifies a way in which the web pages can be arranged. Web-page layout works with arrangement of visual elements of an HTML document.Web page layout is the most important part to keep in mind while creating a website so that our website can appear professional with the great look. You can also use CSS and JAVASCRIPT based frameworks for creating layouts for responsive and dynamic website designing."
   },
 
   {
-    "userid": "JavaScript",
-    "id": 4,
+    "idno": 2,
+    "type": "JavaScript",
+    "_id": 4,
     "name": "Javacsript",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "body": "JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. The traditional website uses js to provide several forms of interactivity and simplicity.Although, JavaScript has no connectivity with Java programming language. The name was suggested and provided in the times when Java was gaining popularity in the market. In addition to web browsers, databases such as CouchDB and MongoDB uses JavaScript as their scripting and query language."
   },
   {
-    "userid": "JavaScript",
-    "id": 5,
+    "type": "JavaScript",
+    "_id": 5,
     "name": "Js Variable",
     "image": "https://miro.medium.com/max/1400/0*VnJX5mQR5wAt5zli.png",
     "body": "A JavaScript variable is simply a name of storage location. There are two types of variables in JavaScript : local variable and global variable.There are some rules while declaring a JavaScript variable (also known as identifiers).Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.After first letter we can use digits (0 to 9), for example value1.JavaScript variables are case sensitive, for example x and X are different variables."
   },
   {
-    "userid": "JavaScript",
-    "id": 6,
+    "type": "JavaScript",
+    "_id": 6,
     "name": "Js data types",
     "image": "https://www.learnsimpli.com/wp-content/uploads/2019/09/javascript-data-types.png",
     "body": "JavaScript provides different data types to hold different types of values. There are two types of data types in JavaScript Primitive data type Non-primitive (reference) data type JavaScript is a dynamic type language, means you don't need to specify type of the variable because it is dynamically used by JavaScript engine. You need to use var here to specify the data type. It can hold any type of values such as numbers, strings etc."
   },
   {
-    "userid": "React",
-    "id": 7,
+    "type": "React",
+    "_id": 7,
     "name": "React",
     "image": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
     "body": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces or UI components. It lets you compose complex UIs from small and isolated pieces of code called “components”.It is used by large, established companies and newly-minted startups alike (Netflix, Airbnb, Instagram, and the New York Times, to name a few). React brings many advantages to the table, making it a better choice than other frameworks like Angular.js.",
     "images": "./images/3.png"
   },
   {
-    "userid": "React",
-    "id": 8,
+    "type": "React",
+    "_id": 8,
     "name": "React Dom",
     "image": "https://media-exp1.licdn.com/dms/image/C4E12AQEZ5Ed4fZPm3Q/article-cover_image-shrink_720_1280/0/1622885901078?e=1672272000&v=beta&t=7_Zmx2CSfpX_hfxqPVgpuATFg0EE411LRQRAkDTrmmw",
     "body": "ReactDOM is a package that provides DOM specific methods that can be used at the top level of a web app to enable an efficient way of managing DOM elements of the web page. ReactDOM provides the developers with an API containing the following methods and a few more. render(),findDOMNode(),unmountComponentAtNode(),hydrate(),createPortal()",
     "images": "./images/3.png"
   },
   {
-    "userid": "React",
-    "id": 9,
+    "type": "React",
+    "_id": 9,
     "name": "Components",
     "image": "https://cdn.educba.com/academy/wp-content/uploads/2020/03/React-Components.jpg.webp",
     "body": "React components let you break up the user interface into separate pieces that can then be reused and handled independently.A React component takes an optional input and returns a React element which is rendered on the screen.A React component can be either “stateful” or “stateless.”“Stateful” components are of the class type, while “stateless” components are of the function type.",
     "images": "./images/3.png"
   },
   {
-    "userid": "Node",
-    "id": 10,
+    "type": "Node",
+    "_id": 10,
     "name": "Node",
     "image": "https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png",
     "body": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.",
     "images": "./images/4.png"
   },
   {
-    "userid": "Node",
-    "id": 11,
+    "type": "Node",
+    "_id": 11,
     "name": "Node Events",
     "image": "https://www.knowledgehut.com/_next/image?url=https%3A%2F%2Fd2o2utebsixu4k.cloudfront.net%2Fmedia%2Fimages%2Fa5cfbb4b-54da-42bf-b6b1-0f25b746eca3.jpg&w=750&q=75",
     "body": "Node.js has a built-in module, called Events, where you can create-, fire-, and listen for- your own events.To include the built-in Events module use the require() method. In addition, all event properties and methods are an instance of an EventEmitter object. To be able to access these properties and methods, create an EventEmitter object:"
   },
 
   {
-    "userid": "MongoDb",
-    "id": 12,
+    "type": "MongoDb",
+    "_id": 12,
     "name": "MongoDb",
     "image": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
     "body": "MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information."
   },
   {
-    "userid": "MongoDb",
-    "id": 13,
+    "type": "MongoDb",
+    "_id": 13,
     "name": "MongoDB Query",
     "image": "https://cdn.educba.com/academy/wp-content/uploads/2020/05/MongoDB-Date-Query-1-1.jpg",
     "body": "MongoDB keeps most recently used data in RAM. If you have created indexes for your queries and your working data set fits in RAM, MongoDB serves all queries from memory. MongoDB does not cache the query results in order to return the cached results for identical queries."
   },
 
   {
-    "userid": "Express",
-    "id": 15,
+    "type": "Express",
+    "_id": 15,
     "name": "Express",
     "image": "https://miro.medium.com/max/700/0*m1VOQP0FtcQufLgw.png",
     "body": "Node JS is a fast JavaScript runtime environment that we use to build server-side applications, but it does not know how to perform serving files, handling requests, and handling HTTP methods, so this is where express js comes in.Express JS is a Node.js framework designed to build API's web applications cross-platform mobile apps quickly and make node js easy."
   },
   {
-    "userid": "Express",
-    "id": 16,
+    "type": "Express",
+    "_id": 16,
     "name": "Request",
     "image": "https://miro.medium.com/max/1400/1*AvS3v4F9k4hOHZg_ynUo_g.png",
     "body": "Express.js Request and Response objects are the parameters of the callback function which is used in Express applications.The express.js request object represents the HTTP request and has properties for the request query string, parameters, body, HTTP headers, and so on."
