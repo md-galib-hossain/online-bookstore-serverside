@@ -12,8 +12,14 @@ app.get("/", (req, res) => {
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
+//Load all course in home page
+app.get("/courses", (req, res) => {
+  res.send(courses);
+});
+// Load courses by category
 app.get("/category/:id", (req, res) => {
   const id = req.params.id;
+  // id 7 diye all course load remove kore disi
   if (id == "7") {
     res.send(courses);
   } else {
@@ -21,6 +27,7 @@ app.get("/category/:id", (req, res) => {
     res.send(categoryCourse);
   }
 });
+// Load specific course
 app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
   const selectedCourse = courses.find((course) => course._id == id);

@@ -7,6 +7,5 @@
 
   { "idno": 5, "userid": "MongoDb" },
 
-  { "idno": 6, "userid": "Express" },
-  { "idno": 7, "userid": "All Course" }
+  { "idno": 6, "userid": "Express" }
 ]
