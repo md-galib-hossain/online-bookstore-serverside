@@ -1,0 +1,88 @@
+[
+  {
+    "idno": 1,
+    "type": "CSE",
+
+    "name": "Artificial Inteligence",
+    "image": "https://i.ibb.co/k3nK5C4/Untitled-1.png",
+    "image2": "https://i.ibb.co/YWzfTrD/Cauypture.png",
+    "body": "In which we try to explain why we consider artificial intelligence to be a subject most worthy of study, and in which we try to decide what exactly it is, this being a good thing to decide before embarking.INTELLIGENCE We call ourselves Homo sapiens—man the wise—because our intelligence is so important to us. For thousands of years, we have tried to understand how we think; that is, how a mere handful of matter can perceive, understand, predict, and manipulate a world far larger and more complicated than itself. The field of artificial intelligence, or AI, goes further still: it ARTIFICIAL INTELLIGENCE attempts not just to understand but also to build intelligent entities.AI is one of the newest fields in science and engineering. Work started in earnest soon after World War II, and the name itself was coined in 1956. Along with molecular biology,AI is regularly cited as the “field I would most like to be in” by scientists in other disciplines. A student in physics might reasonably feel that all the good ideas have already been taken by Galileo, Newton, Einstein, and the rest. AI, on the other hand, still has openings for several full-time Einsteins and Edisons.AI currently encompasses a huge variety of subfields, ranging from the general (learning and perception) to the specific, such as playing chess, proving mathematical theorems, writing poetry, driving a car on a crowded street, and diagnosing diseases. AI is relevant to any intellectual task; it is truly a universal field.",
+    "bookprice": 49
+  },
+  {
+    "idno": 1,
+    "type": "CSE",
+
+    "name": "Learn Css",
+    "image": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg.webp",
+    "body": "CSS tutorial or CSS 3 tutorial provides basic and advanced concepts of CSS technology. Our CSS tutorial is developed for beginners and professionals. The major points of CSS are given below: CSS stands for Cascading Style Sheet.CSS is used to design HTML tags.CSS is a widely used language on the web.HTML, CSS and JavaScript are used for web designing. It helps the web designers to apply style on HTML tags.",
+    "bookprice": 52
+  },
+  {
+    "idno": 1,
+    "type": "CSE",
+
+    "name": "Learn Html Layout",
+    "image": "https://visme.co/blog/wp-content/uploads/2018/03/layout-design-grids-header-wide.jpg",
+    "body": "HTML layouts provide a way to arrange web pages in well-mannered, well-structured, and in responsive form or we can say that HTML layout specifies a way in which the web pages can be arranged. Web-page layout works with arrangement of visual elements of an HTML document.Web page layout is the most important part to keep in mind while creating a website so that our website can appear professional with the great look. You can also use CSS and JAVASCRIPT based frameworks for creating layouts for responsive and dynamic website designing.",
+    "bookprice": 60
+  },
+
+  {
+    "idno": 2,
+    "type": "EEE",
+
+    "name": "Get To Know About Javacsript",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
+    "body": "JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. The traditional website uses js to provide several forms of interactivity and simplicity.Although, JavaScript has no connectivity with Java programming language. The name was suggested and provided in the times when Java was gaining popularity in the market. In addition to web browsers, databases such as CouchDB and MongoDB uses JavaScript as their scripting and query language.",
+    "bookprice": 33
+  },
+  {
+    "idno": 2,
+    "type": "EEE",
+
+    "name": "Learn Js Variable",
+    "image": "https://miro.medium.com/max/1400/0*VnJX5mQR5wAt5zli.png",
+    "body": "A JavaScript variable is simply a name of storage location. There are two types of variables in JavaScript : local variable and global variable.There are some rules while declaring a JavaScript variable (also known as identifiers).Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.After first letter we can use digits (0 to 9), for example value1.JavaScript variables are case sensitive, for example x and X are different variables.",
+    "bookprice": 23
+  },
+  {
+    "idno": 2,
+    "type": "EEE",
+
+    "name": "Learn Js data types",
+    "image": "https://www.learnsimpli.com/wp-content/uploads/2019/09/javascript-data-types.png",
+    "body": "JavaScript provides different data types to hold different types of values. There are two types of data types in JavaScript Primitive data type Non-primitive (reference) data type JavaScript is a dynamic type language, means you don't need to specify type of the variable because it is dynamically used by JavaScript engine. You need to use var here to specify the data type. It can hold any type of values such as numbers, strings etc.",
+    "bookprice": 43
+  },
+  {
+    "idno": 3,
+    "type": "BBA",
+
+    "name": "Get To Know About React",
+    "image": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
+    "body": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces or UI components. It lets you compose complex UIs from small and isolated pieces of code called “components”.It is used by large, established companies and newly-minted startups alike (Netflix, Airbnb, Instagram, and the New York Times, to name a few). React brings many advantages to the table, making it a better choice than other frameworks like Angular.js.",
+    "images": "./images/3.png",
+    "bookprice": 57
+  },
+  {
+    "idno": 3,
+    "type": "BBA",
+
+    "name": "Learn React Dom",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E12AQEZ5Ed4fZPm3Q/article-cover_image-shrink_720_1280/0/1622885901078?e=1672272000&v=beta&t=7_Zmx2CSfpX_hfxqPVgpuATFg0EE411LRQRAkDTrmmw",
+    "body": "ReactDOM is a package that provides DOM specific methods that can be used at the top level of a web app to enable an efficient way of managing DOM elements of the web page. ReactDOM provides the developers with an API containing the following methods and a few more. render(),findDOMNode(),unmountComponentAtNode(),hydrate(),createPortal()",
+    "images": "./images/3.png",
+    "bookprice": 24
+  },
+  {
+    "idno": 3,
+    "type": "BBA",
+
+    "name": "Learn About Components",
+    "image": "https://cdn.educba.com/academy/wp-content/uploads/2020/03/React-Components.jpg.webp",
+    "body": "React components let you break up the user interface into separate pieces that can then be reused and handled independently.A React component takes an optional input and returns a React element which is rendered on the screen.A React component can be either “stateful” or “stateless.”“Stateful” components are of the class type, while “stateless” components are of the function type.",
+    "images": "./images/3.png",
+    "bookprice": 33
+  }
+]
